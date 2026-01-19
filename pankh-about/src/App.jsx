@@ -14,7 +14,7 @@ const App = () => {
         <FounderSection />
         <MissionVision  />
         <JourneyData  />
-         <Footer />
+        <Footer />
     </div>
   )
 }
